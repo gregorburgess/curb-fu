@@ -57,6 +57,6 @@ end
 class String
   include CurbFu::ObjectExtensions
 end
-class Fixnum
+class Integer
   include CurbFu::ObjectExtensions
 end
